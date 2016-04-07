@@ -1,0 +1,16 @@
+.amarillo{
+	background-color: yellow;
+
+}
+.rojo {
+	background-color: red;
+}
+p{
+	margin:0px;
+}
+div{
+	
+	display: inline-block;
+	padding:10px;
+	margin:10px;
+}
